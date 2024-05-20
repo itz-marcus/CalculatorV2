@@ -1,4 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+html{
+
+background-image:url(https://itz-marcus.github.io/CalculatorV2/sports-equipment-paper-background.jpg);
+background-size:cover;
+}
 .cal-body{
     background-color: gray;
     position: absolute;
